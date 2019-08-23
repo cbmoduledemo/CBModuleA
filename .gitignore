@@ -1,0 +1,7 @@
+CBModuleA.xcodeproj/xcuserdata/
+CBModuleA.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+CBModuleA.xcodeproj/project.xcworkspace/xcuserdata/
