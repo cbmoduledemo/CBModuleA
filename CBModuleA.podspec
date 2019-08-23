@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CBModuleA"
-  s.version      = "1"
+  s.version      = "1.0.1"
   s.summary      = "CBModuleA."
 
   s.description  = <<-DESC
